@@ -220,11 +220,6 @@ If you want Elasticsearch to run as a service on Windows:
     http://localhost:9200/<index_name>/_doc/<id>
     ```
 
-    Example:
-
-    ```
-    http://localhost:9200/books/_doc/1
-    ```
 
 ## Delete an Index
 
