@@ -1,4 +1,4 @@
-# Setup-elasticsearch
+# Elasticsearch Installation
 
 
 ## Install and Run Elasticsearch on Windows
@@ -219,20 +219,4 @@ If you want Elasticsearch to run as a service on Windows:
     ```
     http://localhost:9200/<index_name>/_doc/<id>
     ```
-
-
-## Delete an Index
-
-- To delete an index, use:
-
-    ```bash
-    curl -X DELETE 'http://localhost:9200/<name_of_index>'
-    ```
-
-    Example:
-
-    ```bash
-    curl -X DELETE 'http://localhost:9200/books'
-    ```
-
 
