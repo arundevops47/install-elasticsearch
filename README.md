@@ -1,4 +1,4 @@
-# setup-elasticsearch
+# Setup-elasticsearch
 
 
 ## Install and Run Elasticsearch on Windows
