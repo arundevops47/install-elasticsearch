@@ -53,6 +53,8 @@ If you want to add security:
     - Reenter password for [beats_system]: `password` <!-- (You can choose any password) -->
     - Enter password for [remote_monitoring_user]: `password` <!-- (You can choose any password) -->
 
+    Note: You can use your own password
+   
 ### Using the Passwords
 
 Once you've set up the passwords, you'll use these credentials whenever you're prompted by Elasticsearch or any associated service (like Kibana) to log in.
